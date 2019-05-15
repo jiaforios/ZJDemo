@@ -1,0 +1,16 @@
+PODS:
+  - ZJDemo (0.1.0)
+
+DEPENDENCIES:
+  - ZJDemo (from `../`)
+
+EXTERNAL SOURCES:
+  ZJDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZJDemo: e53ec51b4637201e2e013ee8473ae08d530968ce
+
+PODFILE CHECKSUM: e6382844fcbea024df1b144407bced1c805a0a9d
+
+COCOAPODS: 1.6.1

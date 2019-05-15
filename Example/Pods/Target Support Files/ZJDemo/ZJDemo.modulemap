@@ -1,0 +1,6 @@
+framework module ZJDemo {
+  umbrella header "ZJDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
